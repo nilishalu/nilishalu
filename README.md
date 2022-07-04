@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shalini C E</h1>
-<h3 align="center">I am doing my 3rd year B.Tech in IT at NITK,Surathkal. I like to learn and experiment new things. I am into machine learning and web development, and trying to improve my problem solvingand development skills.</h3>
+<h3 align="center">I am doing my 3rd year B.Tech in IT at NITK,Surathkal. I like to learn and experiment new things. I am into machine learning, web development, and trying to improve my problem solving and development skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilishalu&label=Profile%20views&color=0e75b6&style=flat" alt="nilishalu" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shalinice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalinice" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Shalini C E" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalinice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
