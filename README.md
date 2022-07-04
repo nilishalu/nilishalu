@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shalini C E</h1>
 <h3 align="center">I am doing my 3rd year B.Tech in IT at NITK,Surathkal. I like to learn and experiment new things. I am into machine learning, web development, and trying to improve my problem solving and development skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilishalu&label=Profile%20views&color=0e75b6&style=flat" alt="nilishalu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilishalu&label=Profile%20views&color=brightgreen&style=flat" alt="nilishalu" /> </p>
 
 - 🌱 I’m currently learning **Web development**
 
