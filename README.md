@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I am doing my 3rd year B.Tech in IT at NITK,Surathkal. I like to learn and experiment new things. I am into machine learning, web development, and trying to improve my problem solving and development skills.
+  I am doing my 4th year B.Tech in IT at NITK,Surathkal. I like to learn and experiment new things. I am into machine learning, web development, and trying to improve my problem solving and development skills.
 </h3>
 
 <p align="left"> 
